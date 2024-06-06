@@ -1,0 +1,21 @@
+Sun Jun 13 11:02:11 2021
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Sun Jun 13 11:02:11 2021
+No ARsim registration found!
+
+Sun Jun 13 11:02:11 2021
+InstanceName: 01d76032cbdb30d0
+
+Sun Jun 13 11:02:11 2021
+WorkingDirectory: C:\Users\leoch\OneDrive - HTBLA Kaindorf\4.Klasse\Labor\SR\2.Runde\Neuer Ordner\Stanze\Temp\Simulation\Config1\PC\
+
+Sun Jun 13 11:02:11 2021
+COMMAND_COLDSTART
+
+Sun Jun 13 11:02:14 2021
+Version: C4.90
+
+Sun Jun 13 11:03:23 2021
+COMMAND_TERMINATE
+

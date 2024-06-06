@@ -1,0 +1,9 @@
+VAR
+	T1 : TON;
+	Richtung : BOOL;
+	Motor : BOOL;
+	Unten : BOOL;
+	Start : BOOL;
+	Schritt : USINT;
+	Oben : USINT;
+END_VAR

@@ -1,0 +1,10 @@
+<BuildOptions>
+  <BuildOption>
+    <SourceFile Value="D:/BHMBA17/AnsteuerungSchrittmotor/Physical/Config1/4PP065_0571_P74/Cpu.sw" />
+    <Query Value="/ns:SwConfiguration/ns:TaskClass/*$$Name,Source" />
+    <Xml>
+      <Task Name="ncsdcctrl" Source="ncsdcctrl.prg" />
+      <Task Name="Basic" Source="LibACP10MC_SingleAx_ST.Basic.prg" />
+    </Xml>
+  </BuildOption>
+</BuildOptions>

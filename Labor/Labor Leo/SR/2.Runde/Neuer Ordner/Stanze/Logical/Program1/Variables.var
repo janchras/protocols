@@ -1,0 +1,14 @@
+VAR
+	Schritt : USINT;
+	Ri : BOOL;
+	S0 : BOOL;
+	S1 : BOOL;
+	S2 : BOOL;
+	S3 : BOOL;
+	V1 : BOOL;
+	Y1 : BOOL;
+	Y2 : BOOL;
+	Q1 : BOOL;
+	H1 : BOOL;
+	T1 : TON;
+END_VAR

@@ -1,0 +1,2 @@
+ncsdcctrl	"$(AS_CPU_PATH)/ncsdcctrl/ncsdcctrlCyclic.st.o" "$(AS_CPU_PATH)/ncsdcctrl/ncsdcctrlInit.st.o" "$(AS_CPU_PATH)/ncsdcctrl/_bur_pvdef.st.o"  -o "$(AS_CPU_PATH)/ncsdcctrl/a.out"  -G V4.1.2  -T SG4  -M IA32  -specs=I386specs_brelf -nostdlib
+Basic	"$(AS_CPU_PATH)/Basic/basicCyclic.st.o" "$(AS_CPU_PATH)/Basic/basicInit.st.o" "$(AS_CPU_PATH)/Basic/_bur_pvdef.st.o"  -o "$(AS_CPU_PATH)/Basic/a.out"  -G V4.1.2  -T SG4  -M IA32  -specs=I386specs_brelf -nostdlib

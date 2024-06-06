@@ -1,0 +1,623 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.3.7.46 SP"?>
+<Objects>
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package"
+    LastWriteTime="132786736586127777" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="132786668330619219"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="132786721255503740"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="132786721234753542" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\operator\Binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="132786668360709151" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="132786668360579496"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="132786668360639334"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="132786668360659294"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\runtime\Binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="132786668364577181" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="132786668364432950"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="132786668364483454"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="132786668364527042"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\astime\Binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="132786668368925057" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="132786668368645804"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="132786668368825325"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="132786668368875197"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\AsIecCon\Binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="132786668372649408" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="132786668372609515"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="132786668372629472"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="132786668372639439"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\Acp10man\Binary.lby"
+    LogicalPath="Libraries.Acp10man"
+    Type="Library"
+    LastWriteTime="132786721146896330" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\Acp10man\Acp10man.typ"
+    LogicalPath="Libraries.Acp10man.Acp10man.typ"
+    Type="File"
+    LastWriteTime="132786721146846475"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\Acp10par\Binary.lby"
+    LogicalPath="Libraries.Acp10par"
+    Type="Library"
+    LastWriteTime="132786721147759978" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\Acp10par\Acp10par.var"
+    LogicalPath="Libraries.Acp10par.Acp10par.var"
+    Type="File"
+    LastWriteTime="132786721147709833"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\NcGlobal\Binary.lby"
+    LogicalPath="Libraries.NcGlobal"
+    Type="Library"
+    LastWriteTime="132786721148348121" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\NcGlobal\NcGlobal.fun"
+    LogicalPath="Libraries.NcGlobal.NcGlobal.fun"
+    Type="File"
+    LastWriteTime="132786721148078849"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\NcGlobal\NcGlobal.typ"
+    LogicalPath="Libraries.NcGlobal.NcGlobal.typ"
+    Type="File"
+    LastWriteTime="132786721148248395"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\NcGlobal\NcGlobal.var"
+    LogicalPath="Libraries.NcGlobal.NcGlobal.var"
+    Type="File"
+    LastWriteTime="132786721148298264"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\Acp10sdc\Binary.lby"
+    LogicalPath="Libraries.Acp10sdc"
+    Type="Library"
+    LastWriteTime="132786721200949928" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\Acp10sdc\acp10sdc.var"
+    LogicalPath="Libraries.Acp10sdc.acp10sdc.var"
+    Type="File"
+    LastWriteTime="132786721200780100"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\Acp10sdc\acp10sdc.typ"
+    LogicalPath="Libraries.Acp10sdc.acp10sdc.typ"
+    Type="File"
+    LastWriteTime="132786721200889808"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\Acp10_MC\Binary.lby"
+    LogicalPath="Libraries.Acp10_MC"
+    Type="Library"
+    LastWriteTime="132786721212494588" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\Acp10_MC\acp10_mc.fun"
+    LogicalPath="Libraries.Acp10_MC.acp10_mc.fun"
+    Type="File"
+    LastWriteTime="132786721212335009"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\Acp10_MC\acp10_mc.typ"
+    LogicalPath="Libraries.Acp10_MC.acp10_mc.typ"
+    Type="File"
+    LastWriteTime="132786721212394853"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\Acp10_MC\acp10_mc.var"
+    LogicalPath="Libraries.Acp10_MC.acp10_mc.var"
+    Type="File"
+    LastWriteTime="132786721212444713"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\brsystem\Binary.lby"
+    LogicalPath="Libraries.brsystem"
+    Type="Library"
+    LastWriteTime="132786721213328665" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\brsystem\brsystem.fun"
+    LogicalPath="Libraries.brsystem.brsystem.fun"
+    Type="File"
+    LastWriteTime="132786721213179039"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\brsystem\brsystem.typ"
+    LogicalPath="Libraries.brsystem.brsystem.typ"
+    Type="File"
+    LastWriteTime="132786721213228927"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\brsystem\brsystem.var"
+    LogicalPath="Libraries.brsystem.brsystem.var"
+    Type="File"
+    LastWriteTime="132786721213278788"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\sys_lib\Binary.lby"
+    LogicalPath="Libraries.sys_lib"
+    Type="Library"
+    LastWriteTime="132786721214545403" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\sys_lib\sys_lib.fun"
+    LogicalPath="Libraries.sys_lib.sys_lib.fun"
+    Type="File"
+    LastWriteTime="132786721214345936"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\sys_lib\sys_lib.typ"
+    LogicalPath="Libraries.sys_lib.sys_lib.typ"
+    Type="File"
+    LastWriteTime="132786721214435695"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\sys_lib\sys_lib.var"
+    LogicalPath="Libraries.sys_lib.sys_lib.var"
+    Type="File"
+    LastWriteTime="132786721214485567"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\AsBrStr\Binary.lby"
+    LogicalPath="Libraries.AsBrStr"
+    Type="Library"
+    LastWriteTime="132786721234327709" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\AsBrStr\AsBrStr.fun"
+    LogicalPath="Libraries.AsBrStr.AsBrStr.fun"
+    Type="File"
+    LastWriteTime="132786721233954901"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\AsBrStr\AsBrStr.typ"
+    LogicalPath="Libraries.AsBrStr.AsBrStr.typ"
+    Type="File"
+    LastWriteTime="132786721234024713"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\AsBrStr\AsBrStr.var"
+    LogicalPath="Libraries.AsBrStr.AsBrStr.var"
+    Type="File"
+    LastWriteTime="132786721234177818"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\ncsdcctrl\IEC.prg"
+    LogicalPath="ncsdcctrl"
+    Type="Program"
+    LastWriteTime="132786721110253903" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\ncsdcctrl\ncsdcctrlCyclic.st"
+    LogicalPath="ncsdcctrl.ncsdcctrlCyclic.st"
+    Type="File"
+    LastWriteTime="132786721115007634"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\ncsdcctrl\ncsdcctrlInit.st"
+    LogicalPath="ncsdcctrl.ncsdcctrlInit.st"
+    Type="File"
+    LastWriteTime="132786721114876866"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\ncsdcctrl\ncsdcctrl.typ"
+    LogicalPath="ncsdcctrl.ncsdcctrl.typ"
+    Type="File"
+    LastWriteTime="132786721114757468"
+    Private="true" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\ncsdcctrl\ncsdcctrl.var"
+    LogicalPath="ncsdcctrl.ncsdcctrl.var"
+    Type="File"
+    LastWriteTime="132786721256107243"
+    Private="true" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\acp10etxde\Ett.dob"
+    LogicalPath="acp10etxde"
+    Type="DataObject"
+    LastWriteTime="132786721194219600" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\acp10etxde\acp10etxde.ett"
+    LogicalPath="acp10etxde.acp10etxde.ett"
+    Type="File"
+    LastWriteTime="132786721194917974"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\gAxis01obj\Package.pkg"
+    LogicalPath="gAxis01obj"
+    Type="Package"
+    LastWriteTime="132786721245101788" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\gAxis01obj\gAxis01a\Apt.dob"
+    LogicalPath="gAxis01obj.gAxis01a"
+    Type="DataObject"
+    LastWriteTime="132786721240676611" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\gAxis01obj\gAxis01a\gAxis01a.apt"
+    LogicalPath="gAxis01obj.gAxis01a.gAxis01a.apt"
+    Type="File"
+    LastWriteTime="132786721241015700"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\gAxis01obj\gAxis01i\Ax.dob"
+    LogicalPath="gAxis01obj.gAxis01i"
+    Type="DataObject"
+    LastWriteTime="132786721242792302" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\gAxis01obj\gAxis01i\gAxis01i.ax"
+    LogicalPath="gAxis01obj.gAxis01i.gAxis01i.ax"
+    Type="File"
+    LastWriteTime="132786721244971788"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\LibACP10MC_SingleAx_ST\Package.pkg"
+    LogicalPath="LibACP10MC_SingleAx_ST"
+    Type="Package"
+    LastWriteTime="132786733972254500" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\LibACP10MC_SingleAx_ST\Basic\IEC.prg"
+    LogicalPath="LibACP10MC_SingleAx_ST.Basic"
+    Type="Program"
+    LastWriteTime="132786733972204634" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\LibACP10MC_SingleAx_ST\Basic\basicCyclic.st"
+    LogicalPath="LibACP10MC_SingleAx_ST.Basic.basicCyclic.st"
+    Type="File"
+    LastWriteTime="132786733972025325"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\LibACP10MC_SingleAx_ST\Basic\basicInit.st"
+    LogicalPath="LibACP10MC_SingleAx_ST.Basic.basicInit.st"
+    Type="File"
+    LastWriteTime="132786733972035087"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\LibACP10MC_SingleAx_ST\Basic\basic.typ"
+    LogicalPath="LibACP10MC_SingleAx_ST.Basic.basic.typ"
+    Type="File"
+    LastWriteTime="132786733972045063"
+    Private="true" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\LibACP10MC_SingleAx_ST\Basic\basic.var"
+    LogicalPath="LibACP10MC_SingleAx_ST.Basic.basic.var"
+    Type="File"
+    LastWriteTime="132786733972055033"
+    Private="true" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Visu\Vc.dob"
+    LogicalPath="Visu"
+    Type="DataObject"
+    LastWriteTime="132786736585659024" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Visu\VCObject.vc"
+    LogicalPath="Visu.VCObject.vc"
+    Type="File"
+    LastWriteTime="132786736585609158"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\Config.pkg"
+    LogicalPath="Config1"
+    Type="Configuration"
+    LastWriteTime="132786668433635936" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\Hardware.hw"
+    LogicalPath="Config1.Hardware.hw"
+    Type="File"
+    LastWriteTime="132786736592491266"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\Hardware.hwl"
+    LogicalPath="Config1.Hardware.hwl"
+    Type="File"
+    LastWriteTime="132786721856106802"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\Cpu.pkg"
+    LogicalPath="Config1.4PP065_0571_P74"
+    Type="Cpu"
+    LastWriteTime="132786721122123823" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\Cpu.sw"
+    LogicalPath="Config1.4PP065_0571_P74.Cpu.sw"
+    Type="File"
+    LastWriteTime="132786736588881779"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\Cpu.per"
+    LogicalPath="Config1.4PP065_0571_P74.Cpu.per"
+    Type="File"
+    LastWriteTime="132786668376484752"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\IoMap.iom"
+    LogicalPath="Config1.4PP065_0571_P74.IoMap.iom"
+    Type="File"
+    LastWriteTime="132786721118307207"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\PvMap.vvm"
+    LogicalPath="Config1.4PP065_0571_P74.PvMap.vvm"
+    Type="File"
+    LastWriteTime="132786668376605883"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\Connectivity\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.Connectivity"
+    Type="Package"
+    LastWriteTime="132786668376954951" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="132786668376905366" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\TextSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.TextSystem"
+    Type="Package"
+    LastWriteTime="132786668377114524" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\UnitSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.UnitSystem"
+    Type="Package"
+    LastWriteTime="132786668377274098" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="132786668378315339" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="132786668377560326" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="132786668377460310"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="132786668377510176"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="132786668378205637" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="132786668377854106" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="132786668377709640" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="132786668377804246" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="132786668378035787" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="132786668377983483" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="132786668378095950" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="132786668378155771" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="132786668378275167" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\mapp\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.mapp"
+    Type="Package"
+    LastWriteTime="132786668378394850" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\Motion\Package.pkg"
+    LogicalPath="Config1.4PP065_0571_P74.Motion"
+    Type="Package"
+    LastWriteTime="132786721154984566" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\Motion\Acp10map.ncm"
+    LogicalPath="Config1.4PP065_0571_P74.Motion.Acp10map.ncm"
+    Type="File"
+    LastWriteTime="132786721176729645"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\Motion\Acp10cfg.ncc"
+    LogicalPath="Config1.4PP065_0571_P74.Motion.Acp10cfg.ncc"
+    Type="File"
+    LastWriteTime="132786721193899770"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\4PP065_0571_P74\Motion\Acp10sys.br"
+    LogicalPath="Config1.4PP065_0571_P74.Motion.Acp10sys.br"
+    Type="File"
+    LastWriteTime="132786721156480545"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Physical\Config1\Hardware.jpg"
+    LogicalPath="Config1.Hardware.jpg"
+    Type="File"
+    LastWriteTime="132786723388038091"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\Acp10_MC\SG4\Acp10_MC.h"
+    LogicalPath="Acp10_MC.h"
+    Type="File"
+    LastWriteTime="131459552480000000"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\Acp10man\SG4\Acp10man.h"
+    LogicalPath="Acp10man.h"
+    Type="File"
+    LastWriteTime="131459734940000000"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\Acp10par\SG4\Acp10par.h"
+    LogicalPath="Acp10par.h"
+    Type="File"
+    LastWriteTime="131459736100000000"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\Acp10sdc\SG4\Acp10sdc.h"
+    LogicalPath="Acp10sdc.h"
+    Type="File"
+    LastWriteTime="131459722480000000"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\AsBrStr\SG4\AsBrStr.h"
+    LogicalPath="AsBrStr.h"
+    Type="File"
+    LastWriteTime="131717458980000000"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\AsIecCon\SG4\AsIecCon.h"
+    LogicalPath="AsIecCon.h"
+    Type="File"
+    LastWriteTime="131717459000000000"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\astime\SG4\astime.h"
+    LogicalPath="astime.h"
+    Type="File"
+    LastWriteTime="131717459060000000"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\brsystem\SG4\brsystem.h"
+    LogicalPath="brsystem.h"
+    Type="File"
+    LastWriteTime="131717459080000000"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\NcGlobal\SG4\NcGlobal.h"
+    LogicalPath="NcGlobal.h"
+    Type="File"
+    LastWriteTime="131459734020000000"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\operator\SG4\operator.h"
+    LogicalPath="operator.h"
+    Type="File"
+    LastWriteTime="131717459100000000"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\runtime\SG4\runtime.h"
+    LogicalPath="runtime.h"
+    Type="File"
+    LastWriteTime="131717459100000000"
+    Private="false" />
+  <Object
+    Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\Libraries\sys_lib\SG4\sys_lib.h"
+    LogicalPath="sys_lib.h"
+    Type="File"
+    LastWriteTime="131717459100000000"
+    Private="false" />
+</Objects>

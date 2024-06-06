@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.3.7.46 SP"?>
+<ConfigInfo xmlns="http://br-automation.co.at/AS/BuildInfo">
+  <TaskClass
+    Name="Cyclic#1">
+    <Task
+      Name="ncsdcctrl"
+      Disable="false"
+      Source="ncsdcctrl"
+      Language="IEC">
+      <InternalFile
+        Path="D:\BHMBA17\AnsteuerungSchrittmotor\Temp\Objects\Config1\4PP065_0571_P74\ncsdcctrl\ncsdcctrlCyclic.st.var" />
+      <InternalFile
+        Path="D:\BHMBA17\AnsteuerungSchrittmotor\Temp\Objects\Config1\4PP065_0571_P74\ncsdcctrl\ncsdcctrlInit.st.var" />
+      <File
+        Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\ncsdcctrl\ncsdcctrl.typ" />
+      <File
+        Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\ncsdcctrl\ncsdcctrl.var" />
+    </Task>
+  </TaskClass>
+  <TaskClass
+    Name="Cyclic#2" />
+  <TaskClass
+    Name="Cyclic#3" />
+  <TaskClass
+    Name="Cyclic#4">
+    <Task
+      Name="Basic"
+      Disable="false"
+      Source="LibACP10MC_SingleAx_ST.Basic"
+      Language="IEC">
+      <InternalFile
+        Path="D:\BHMBA17\AnsteuerungSchrittmotor\Temp\Objects\Config1\4PP065_0571_P74\Basic\basicCyclic.st.var" />
+      <InternalFile
+        Path="D:\BHMBA17\AnsteuerungSchrittmotor\Temp\Objects\Config1\4PP065_0571_P74\Basic\basicInit.st.var" />
+      <File
+        Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\LibACP10MC_SingleAx_ST\Basic\basic.typ" />
+      <File
+        Path="D:\BHMBA17\AnsteuerungSchrittmotor\Logical\LibACP10MC_SingleAx_ST\Basic\basic.var" />
+    </Task>
+  </TaskClass>
+  <TaskClass
+    Name="Cyclic#5" />
+  <TaskClass
+    Name="Cyclic#6" />
+  <TaskClass
+    Name="Cyclic#7" />
+  <TaskClass
+    Name="Cyclic#8" />
+</ConfigInfo>
